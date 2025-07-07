@@ -1,7 +1,7 @@
 print("Python Basics")
 
 def number(n):
-    print(n)
+    print(n*2)
 
 
 number(5)
